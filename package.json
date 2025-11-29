@@ -1,0 +1,23 @@
+{
+  "name": "reactjsbyas",
+  "version": "1.0.0",
+  "description": "React JS code",
+  "homepage": "https://github.com/shubha180396-tech/Shu-ReactJS#readme",
+  "bugs": {
+    "url": "https://github.com/shubha180396-tech/Shu-ReactJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubha180396-tech/Shu-ReactJS.git"
+  },
+  "license": "ISC",
+  "author": "Shubha R",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.0"
+  }
+}

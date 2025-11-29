@@ -1,1 +1,1 @@
-react js code 
+React JS code 
